@@ -38,7 +38,7 @@ I'm a software engineer and creative technologist passionate about bridging tech
 ## 🚀 Featured Projects
 
 ### CultOf8 Website
-<img align="right" width="300" src="https://via.placeholder.com/300x180" alt="CultOf8 Screenshot">
+<img align="right" width="300" src="./Assets/img/cultOf8.png" alt="CultOf8 Screenshot">
 
 - **Description**: Developed a complete e-commerce solution for a Creative Collective (group of people who create things).
 - **Tech Stack**: HTML, CSS, JavaScript, Ecwid e-commerce platform
@@ -50,9 +50,9 @@ I'm a software engineer and creative technologist passionate about bridging tech
 <br clear="right"/>
 
 ### RX Remedy (T9Hacks Hackathon Winner)
-<img align="right" width="300" src="https://via.placeholder.com/300x180" alt="RX Remedy Screenshot">
+<img align="right" width="300" src="./Assets/img/RXRemedy.png" alt="RX Remedy Screenshot">
 
-- **Description**: Created a healthcare solution at the T9Hacks Hackathon sponsored by Medtronic
+- **Description**: Created an Automatic Pill Disperser at the T9Hacks Hackathon sponsored by Medtronic
 - **Tech Stack**: C++, Arduino IDE, Rhino7, Adobe Illustrator, Arduino BLE, Arduino Cloud Agent, Claude
 - **Key Achievement**: First place winner
 - **Team**: Collaborated with [keha5124](https://github.com/keha5124) and [Yash1hi](https://github.com/Yash1hi)
